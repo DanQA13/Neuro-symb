@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+.ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings and history
+.vscode/
+.history
+
+# Mac OS files
+.DS_Store
+
+# Python-specific ignores
+*.pyo
+*.pyd
+*.pdb
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Secrets
+*.env
+.env
+
+# Other IDE files
+.idea/
+
+# GitHub folder
+.github/
+
+# Model files (add specific files or folders if model files are too large)
+*.ckpt
+*.h5
+*.tflite
+*.onnx
+*.pb
+*.weights
+
+# Other
+*.bak
